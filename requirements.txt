@@ -1,6 +1,6 @@
 numpy >= 1.25.0
 pandas >= 1.5
-sklearn
+scikit-learn
 matplotlib
 imageio
 jupyter-offlinenotebook
