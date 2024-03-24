@@ -1,1 +1,4 @@
 numpy >= 1.25.0
+pandas >= 1.5
+import sklearn
+import matplotlib.pyplot
